@@ -1,0 +1,47 @@
+.bottom-half{
+    position: fixed;
+    height: 50vh;
+    background-color: purple;
+    width: 100%;
+    bottom: 0;
+}
+.container{
+    margin-top: 500px;
+    margin-left: 150px;
+    position: absolute;
+}
+.container2{
+    margin-top: 500px;
+    margin-left: 600px;
+    position: absolute;
+}
+.container3{
+    margin-top: 500px;
+    margin-left: 1050px;
+    position: absolute;
+}
+.button{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 400px;
+}
+.button2{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 200px;
+}
+.lorem{
+    padding: 20px;
+    border: 1px;
+}
+h2{
+    font-size: 24px;
+    max-width: 400px;  
+    margin-left: 300px;
+    margin-top: 80px;   
+}
+.container4{
+    margin-top: 1px;
+    margin-left: 700px;
+    position: absolute;
+}
